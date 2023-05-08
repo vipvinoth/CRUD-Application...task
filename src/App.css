@@ -1,0 +1,42 @@
+.container{
+  text-align: center;
+}
+table{
+  width: auto;
+  margin-left: 310px;
+  margin-top: 50px;
+  border: 1px dotted rgb(0, 5, 8);
+  border-radius: 6px;
+  border-collapse: separate;
+}
+/* th{
+  background-color: rgb(40, 211, 241);
+  color: black;
+} */
+td{
+  background-color: rgb(221, 209, 209);
+  font-weight: bold;
+}
+td:hover{
+  font-size: 22px;
+  color: blue;
+  font-weight: lighter;
+}
+td button{
+  border: none;
+  background-color: rgb(221, 209, 209);
+}
+.add{text-decoration: none;
+  font-size: 18px;
+  background-color: rgb(240, 243, 47);
+  border: 1px solid whitesmoke;
+  border-radius: 10px;
+}
+.add:hover{
+  transform: scale(1.2);
+  text-decoration: none;
+}
+td button{
+  margin: 0 8px 0 11px;
+}
+

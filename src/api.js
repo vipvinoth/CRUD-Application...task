@@ -1,0 +1,1 @@
+export const Api='mongodb://localhost:27017/kavin'
